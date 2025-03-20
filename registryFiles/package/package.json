@@ -1,6 +1,6 @@
 {
   "name": "fabric-native-component-test",
-  "version": "0.1.0",
+  "version": "2.0.1",
   "description": "fabric-native-component-test",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
@@ -192,6 +192,11 @@
     },
     "android": {
       "javaPackageName": "com.fabricnativecomponenttest"
+    },
+    "ios": {
+      "componentsProvider": {
+        "FabricNativeComponentTestView": "FabricNativeComponentTestView"
+      }
     },
     "includesGeneratedCode": true
   },

@@ -1,7 +1,7 @@
 PODS:
   - boost (1.84.0)
   - DoubleConversion (1.1.6)
-  - FabricNativeComponentTest (0.1.0):
+  - FabricNativeComponentTest (2.0.1):
     - DoubleConversion
     - glog
     - hermes-engine
@@ -1764,7 +1764,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   boost: 7e761d76ca2ce687f7cc98e698152abd03a18f90
   DoubleConversion: cb417026b2400c8f53ae97020b2be961b59470cb
-  FabricNativeComponentTest: b673c48dfc48d49f91f45ad5715679ab29c4746a
+  FabricNativeComponentTest: e4976b5b81cad4766bd4a42cda1a15cd7d29d55e
   fast_float: 06eeec4fe712a76acc9376682e4808b05ce978b6
   FBLazyVector: 6fe148afcef2e3213e484758e3459609d40d57f5
   fmt: a40bb5bd0294ea969aaaba240a927bd33d878cdd
@@ -1833,4 +1833,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 46cb9a2c8406212e12c19d7c6983e7aecf98af30
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.16.2
